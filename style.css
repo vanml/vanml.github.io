@@ -1,0 +1,171 @@
+form {
+  padding: 0px;
+  margin: 0px;
+  display: inline;
+}
+
+li {
+  margin: 5px 0;
+}
+
+.floating img {
+  border: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+
+@font-face {
+ font-family: "Helvetica";
+}
+
+.main {
+  margin-top: 75px;
+  margin-left: 75px;
+  margin-right: 150px;
+  text-align: left;
+  max-width: 700px;
+  min-width: 500px;
+}
+
+hr {
+ border-style:solid;
+ border-color:#d3d3d3;
+ color:#d3d3d3;
+}
+
+.topbar a {
+  font-family: "Helvetica";
+  color: #459e00;
+}
+.topbar a:link {
+  text-decoration: none;
+  color: #459e00;
+}
+.topbar a:hover {
+  text-decoration: none;
+  color: #459e00;
+}
+.topbar a:visited {
+  text-decoration: none;
+  color: #459e00;
+}
+
+
+body a {
+  font-family: "Helvetica";
+  color: #459e00;
+}
+body a:link {
+  text-decoration: none;
+  color: #459e00;
+}
+body a:hover {
+  text-decoration: none;
+  color: #459e00;
+}
+body a:visited {
+  text-decoration: none;
+  color: #459e00;
+}
+
+
+ul li {
+  margin: 5px;
+  padding: 5px;
+  margin-left: 35px;
+}
+
+#intext { 
+  padding: 5px 37px 5px 10px;
+  background: #fdfdfd;
+  border: 3px solid #d7d7d7;    
+  border-radius: 7px;
+  -moz-border-radius: 7px;
+  -webkit-border-radius: 7px;
+  outline: none;
+}
+
+.hidden {
+  display: block;
+  visibility: hidden;
+  width: 0;
+  height: 0;
+}
+
+input[type="submit"] {
+  outline: none;
+}
+
+input[type="text"], input[type="password"] {
+  color: inherit;
+  background: none;
+  text-align: left;
+  border-color: #d7d7d7;
+  outline: none;
+  vertical-align:middle;
+  cursor: text;
+}
+
+body {
+  margin:25px;
+  margin-right:20px;
+  font-family: "Helvetica";
+}
+
+div.left {
+  float: left;
+  font-family: "Helvetica";
+  color: #459e00;
+  font-size: 40px;
+}
+
+div.right {
+  width: 100%;
+}
+
+span.left {
+  vertical-align:middle;
+  text-align:left;
+}
+
+span.middle {
+  color:#d7d7d7;
+  vertical-align:middle;
+}
+
+span.topbar {
+  width:100%;
+  display:block;
+  background-color:#e0e0e0;
+  text-align:right;
+  padding:60px;
+  margin-bottom:10px;
+}
+
+.smaller {
+
+}
+
+p {
+  line-height: 1.5;
+}
+
+li {
+  line-height: 1.5;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+
+td {
+  padding: 5px;
+}
