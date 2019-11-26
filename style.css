@@ -51,6 +51,8 @@ hr {
 }
 
 .header {
+  font-family: ConnectionSerif;
+  src: url("ConnectionSerif.otf") format("opentype");
   color: #27aafc;
 }
 
