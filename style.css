@@ -35,19 +35,19 @@ hr {
 
 .topbar a {
   font-family: "Helvetica";
-  color: #1ed75f;
+  color: #28d755;
 }
 .topbar a:link {
   text-decoration: none;
-  color: #1ed75f;
+  color: #28d755;
 }
 .topbar a:hover {
   text-decoration: none;
-  color: #1ed75f;
+  color: #28d755;
 }
 .topbar a:visited {
   text-decoration: none;
-  color: #1ed75f;
+  color: #28d755;
 }
 
 @font-face {
