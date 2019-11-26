@@ -51,12 +51,12 @@ hr {
 }
 
 @font-face {
-  font-family: ConnectionSerif;
-  src: url("ConnectionSerif.otf") format("opentype");
+  font-family: "ConnectionSerif";
+  src: url("ConnectionSerif.ttf");
 }
 
 .header {
-  font-family: ConnectionSerif;
+  font-family: "ConnectionSerif";
   color: #27aafc;
 }
 
