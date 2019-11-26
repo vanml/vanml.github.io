@@ -50,9 +50,13 @@ hr {
   color: #1ed75f;
 }
 
-.header {
+@font-face {
   font-family: ConnectionSerif;
   src: url("ConnectionSerif.otf") format("opentype");
+}
+
+.header {
+  font-family: ConnectionSerif;
   color: #27aafc;
 }
 
